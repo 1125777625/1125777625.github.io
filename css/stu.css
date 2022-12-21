@@ -4,7 +4,7 @@
 }
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background:#E3E3E5 url(../images/orange.jpg) 50% top scroll no-repeat;
+    background:url(../images/orange.jpg) no-repeat top center #E3E3E5;
     color: #3F3E3C;
 
 }
